@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Flawlessly executed!");  
+﻿Console.WriteLine("Flawlessly executed!");
+PeriodicTimer timer = new(TimeSpan.FromSeconds(1)); 
